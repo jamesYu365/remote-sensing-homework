@@ -39,12 +39,14 @@ The structure of HW1 is:
 
 ##### the matching result in cosine distance:
 
-##### ![matched_object_spectral_cosine](J:\qqfile\环境遥感\homework\hw1\matched_object_spectral_cosine.png)the matching result in euclidean distance: 
+![matched_object_spectral_cosine](hw1/matched_object_spectral_cosine.png)
 
-![matched_object_spectral_euclidean](J:\qqfile\环境遥感\homework\hw1\matched_object_spectral_euclidean.png)
+##### the matching result in euclidean distance: 
+
+![matched_object_spectral_euclidean](hw1/matched_object_spectral_euclidean.png)
 
 ##### the matching result in mahalanobis distance:
 
-![matched_object_spectral_mahalanobis](J:\qqfile\环境遥感\homework\hw1\matched_object_spectral_mahalanobis.png)
+![matched_object_spectral_mahalanobis](hw1/matched_object_spectral_mahalanobis.png)
 
 ### Update
