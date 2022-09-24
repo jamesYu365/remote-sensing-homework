@@ -49,4 +49,4 @@ The structure of HW1 is:
 
 ![matched_object_spectral_mahalanobis](hw1/matched_object_spectral_mahalanobis.png)
 
-### Update
+### Next update is coming soon~
