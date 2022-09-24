@@ -1,6 +1,21 @@
 # Remote-Sensing-Homework
 This repository contains homework for Southern University of Science and Technology(SUSTech) Environment Remote Sensing postgraduate course. The Tutor in this class is [Feng Lian](https://faculty.sustech.edu.cn/fengl/). Thanks for his work. This repository will be updated until the end of this class. 
 
+- [Remote-Sensing-Homework](#remote-sensing-homework)
+  - [Getting Started](#getting-started)
+    - [Dependencies](#dependencies)
+    - [Executing program](#executing-program)
+  - [Help](#help)
+  - [Authors](#authors)
+  - [Update HW1 2022/9/24](#update-hw1-2022924)
+      - [The structure of HW1 is:](#the-structure-of-hw1-is)
+      - [the matching result in cosine distance:](#the-matching-result-in-cosine-distance)
+      - [the matching result in euclidean distance:](#the-matching-result-in-euclidean-distance)
+      - [the matching result in mahalanobis distance:](#the-matching-result-in-mahalanobis-distance)
+  - [Next update is coming soon~](#next-update-is-coming-soon)
+  - [License](#license)
+  - [Acknowledgments](#acknowledgments)
+
 ## Getting Started
 
 ### Dependencies
@@ -21,11 +36,11 @@ If anyone has any problem about this repository, it’s welcomed to put forward 
 
 * Yu bin: 12232254@mail.sustech.edu.cn
 
-[TOC]
 
-### Update HW1 2022/9/24
 
-The structure of HW1 is:
+## Update HW1 2022/9/24
+
+#### The structure of HW1 is:
 
 ```python
 └─hw1# homework1 folder
@@ -59,19 +74,19 @@ The structure of HW1 is:
             
 ```
 
-##### the matching result in cosine distance:
+#### the matching result in cosine distance:
 
 ![matched_object_spectral_cosine](hw1/matched_object_spectral_cosine.png)
 
-##### the matching result in euclidean distance: 
+#### the matching result in euclidean distance: 
 
 ![matched_object_spectral_euclidean](hw1/matched_object_spectral_euclidean.png)
 
-##### the matching result in mahalanobis distance:
+#### the matching result in mahalanobis distance:
 
 ![matched_object_spectral_mahalanobis](hw1/matched_object_spectral_mahalanobis.png)
 
-### Next update is coming soon~
+## Next update is coming soon~
 
 
 
