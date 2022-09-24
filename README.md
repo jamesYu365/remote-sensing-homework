@@ -1,5 +1,27 @@
-# homework
-This repository contains homework for Southern University of Science and Technology(SUSTech) Environment Remote Sensing postgraduate course. The Tutor in this class is [Feng Lian](https://faculty.sustech.edu.cn/fengl/), and thanks for his work. This repository will be updated until the end of this class. 
+# Remote-Sensing-Homework
+This repository contains homework for Southern University of Science and Technology(SUSTech) Environment Remote Sensing postgraduate course. The Tutor in this class is [Feng Lian](https://faculty.sustech.edu.cn/fengl/). Thanks for his work. This repository will be updated until the end of this class. 
+
+## Getting Started
+
+### Dependencies
+
+* Python3.x
+* numpy, pandas, matplotlib, tqdm
+### Executing program
+
+```python
+python data_matching.py
+```
+
+## Help
+
+If anyone has any problem about this repository, it’s welcomed to put forward issues in Github or email me.
+
+## Authors
+
+* Yu bin: 12232254@mail.sustech.edu.cn
+
+[TOC]
 
 ### Update HW1 2022/9/24
 
@@ -50,3 +72,13 @@ The structure of HW1 is:
 ![matched_object_spectral_mahalanobis](hw1/matched_object_spectral_mahalanobis.png)
 
 ### Next update is coming soon~
+
+
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
+
+## Acknowledgments
+
+Here acknowledge the author, i.e. myself, for his time and effort and you for your effort to finish this homework:)
