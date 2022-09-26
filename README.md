@@ -1,20 +1,46 @@
-# Remote-Sensing-Homework
-This repository contains homework for Southern University of Science and Technology(SUSTech) Environment Remote Sensing postgraduate course. The Tutor in this class is [Feng Lian](https://faculty.sustech.edu.cn/fengl/). Thanks for his work. This repository will be updated until the end of this class. 
+![04](img/04.png)
 
-- [Remote-Sensing-Homework](#remote-sensing-homework)
-  - [Getting Started](#getting-started)
-    - [Dependencies](#dependencies)
-    - [Executing program](#executing-program)
-  - [Help](#help)
-  - [Authors](#authors)
-  - [Update HW1 2022/9/24](#update-hw1-2022924)
-      - [The structure of HW1 is:](#the-structure-of-hw1-is)
-      - [the matching result in cosine distance:](#the-matching-result-in-cosine-distance)
-      - [the matching result in euclidean distance:](#the-matching-result-in-euclidean-distance)
-      - [the matching result in mahalanobis distance:](#the-matching-result-in-mahalanobis-distance)
-  - [Next update is coming soon~](#next-update-is-coming-soon)
-  - [License](#license)
-  - [Acknowledgments](#acknowledgments)
+## ESE5032: Environment Remote Sensing Graduate Course
+
+Graduate class at Southern University of Science and Technology(SUSTech), from the syllabus:
+
+*“The course pays attention to the rule of reciprocity between teaching and studying: topic discussion in class is also the way in our teaching. According to students psychological characteristics, to set up doubt, ask questions r from practical problems. To full use of multimedia technology will help students establish a correct concept of deep understanding of the teaching content. Furthermore, it widens their knowledge, trains their ability to gain knowledge actively and solve problems. It makes the students get a deeper understanding of the theory with case analysis. This course can strengthen the application status of remote sensing technology on resource and ecology survey”*
+
+### Course Objectives:
+
+Students can realize and command the following learning outcomes by learning the course: 
+
+* Understand fundamental physics of remote sensing, principles of remote sensing imaging and image interpretation. 
+
+* Understand remote sensing technological systems and master information extraction from remote sensing images. 
+
+* Apply remote sensing technologies on nature resource, environmental and geographical inventory and analytical study. 
+
+* Understand and master different approaches to interpreting remote sensing images including aerophoto, multispectral image, thermal infrared image, radar image and hyperspectral image
+
+* Understand the development of remote sensing technology. 
+
+* Understand the application of intelligent image interpretation and quantitative remote sensing on nature resource, environmental monitoring, and disaster assessment etc.
+
+### Declaim
+
+This repository contains homework for this class. The Instructor in this class is [Feng Lian](https://faculty.sustech.edu.cn/fengl/). Thanks for his work. This repository will keep updating until the end of this class. 
+
+- [ESE5032: Environment Remote Sensing Graduate Course](#ese5032-environment-remote-sensing-graduate-course)
+  - [Course Objectives:](#course-objectives)
+  - [Declaim](#declaim)
+- [Getting Started](#getting-started)
+  - [Dependencies](#dependencies)
+- [Update HW1 2022/9/24](#update-hw1-2022924)
+    - [The structure of HW1 is:](#the-structure-of-hw1-is)
+    - [the matching result in cosine distance:](#the-matching-result-in-cosine-distance)
+    - [the matching result in euclidean distance:](#the-matching-result-in-euclidean-distance)
+    - [the matching result in mahalanobis distance:](#the-matching-result-in-mahalanobis-distance)
+- [Next update is coming soon~](#next-update-is-coming-soon)
+- [Help](#help)
+- [Authors](#authors)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
 
 ## Getting Started
 
@@ -22,19 +48,6 @@ This repository contains homework for Southern University of Science and Technol
 
 * Python3.x
 * numpy, pandas, matplotlib, tqdm
-### Executing program
-
-```python
-python data_matching.py
-```
-
-## Help
-
-If anyone has any problem about this repository, it’s welcomed to put forward issues in Github or email me.
-
-## Authors
-
-* Yu bin: 12232254@mail.sustech.edu.cn
 
 
 
@@ -89,6 +102,14 @@ If anyone has any problem about this repository, it’s welcomed to put forward 
 ## Next update is coming soon~
 
 
+## Help
+
+If anyone has any problem about this repository, it’s welcomed to put forward issues in Github or email me.
+
+## Authors
+
+* Yu bin: 12232254@mail.sustech.edu.cn
+
 
 ## License
 
@@ -97,3 +118,4 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 ## Acknowledgments
 
 Here acknowledge the author, i.e. myself, for his time and effort and you for your effort to finish this homework:)
+
